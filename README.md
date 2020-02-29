@@ -1,2 +1,2 @@
-# send_url_chat
-Отправление полученных url, в чат после проверки сайтов на robotframework
+## Qa automation
+Отправление полученных url в чат, после тестирования сайтов keywords robotframework.
